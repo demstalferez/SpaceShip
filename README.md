@@ -5,6 +5,11 @@ Este proyecto es parte del bootcamp [Data Analytics](https://www.upgrade-hub.com
 
 #### -- Estado del proyecto: [Recibiendo actualizaciones y mejoras]
 
+
+## Objetivo
+
+   -- El objetivo de este ejercicio es predecir si un pasajero fue transportado a una dimensión alternativa durante un accidente espacio-temporal
+
 ## HISTORIA DEL PROYECTO
 
 Bienvenido al año 2912, donde se necesitan tus habilidades de ciencia de datos para resolver un misterio cósmico. Hemos recibido una transmisión desde cuatro años luz de distancia y las cosas no pintan bien.
